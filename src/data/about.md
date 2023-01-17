@@ -1,7 +1,7 @@
 
 # Intro
 
-I am currently a student at the University of Massachusetts Amherst. I am sophomore computer science major, working on a minor in political science.
+I am currently a student at the University of Massachusetts Amherst. I am a sophomore computer science major, working on a minor in political science.
 
 # Currently
 
@@ -21,7 +21,7 @@ At UMass, I am spending my time learning new programming languages and how to ap
 
 - During the height of the pandemic in 2020 I connected with my pen pal in Amsterdam. We still send each other letters to this day.
 
-- Currently at 19, I am still exploring my love of programming, and trying to stay up to date on my numerous random hobbies such as sewing, crocheting and beading.
+- Currently at 19, I am still exploring my future career paths, and trying to stay up to date on my numerous random hobbies such as sewing, crocheting and beading.
 
 # I like
 
@@ -32,16 +32,15 @@ At UMass, I am spending my time learning new programming languages and how to ap
 - <p style="color:#CCCCFF">The color perwinkle</p>
 - Autumn
 - [Books](https://instagram.com/wren.aesthetic)
-
 - [Good design](/)
 
 # Fun facts
 
-- I have never flown outside of the United States (but I will this fall when I study abroad in Denmark!)
+- I have never flown outside of the United States (but I will this fall when I study abroad in Denmark!).
 - I am a big fan of Hayao Miyazaki, especially [Spirited Away](https://www.imdb.com/title/tt0245429/),[Howls Moving Castle](https://www.imdb.com/title/tt0347149/), and [Kiki's Delivery Service](https://www.imdb.com/title/tt0097814/)
-- I am a Dunkin fan over Starbucks
-- My mom is a Giants fan and my dad is a Cowboys fan, which makes Monday Night Football very chaotic
-- I love jigsaw puzzles and just finished [The Two Million Dollar Puzzle](https://twomillionpuzzle.com/), (we won one dollar)
+- I am a Dunkin Donuts fan over Starbucks.
+- My mom is a Giants fan and my dad is a Cowboys fan, which makes Monday Night Football very chaotic.
+- I love jigsaw puzzles and just finished [The Two Million Dollar Puzzle](https://twomillionpuzzle.com/) with my family (we won one dollar).
 
 # I dream of
 
