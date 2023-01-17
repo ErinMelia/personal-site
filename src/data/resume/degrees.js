@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    degree: 'Trumbull High School',
+    school: 'THS',
+    link: 'https://www.trumbullps.org/ths/',
+    year: 2021,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
+    school: 'University of Massachusetts Amherst',
+    degree: 'B.S. Computer Science, minor in Political Science',
     link: 'https://buffalo.edu',
-    year: 2012,
+    year: 'Expected Graduation: 2025',
   },
 ];
 
